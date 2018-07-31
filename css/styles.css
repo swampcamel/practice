@@ -1,0 +1,22 @@
+body {
+  background-color: #1F80FF;
+  font-family: Raleway;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+  text-shadow: 2px 2px 1px #000;
+}
+
+.cool {
+  text-align: center;
+  font-weight: bolder;
+}
+
+a {
+  color: #840CE8;
+  font-size: 22px;
+  line-height: 24px;
+  font-family: sans-serif;
+}
